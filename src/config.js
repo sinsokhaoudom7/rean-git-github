@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version github');
+console.log('version 1 on github updated ');
